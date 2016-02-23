@@ -1,0 +1,13 @@
+{
+  "name": "git-remote-rebase",
+  "version": "0.0.0",
+  "description": "Rebase remote branch",
+  "license": "MIT",
+  "repository": "blond/git-remote-rebase",
+  "author": "Andrew Abramov <mail@blond.im> (github.com/blond)",
+  "keywords": ["git", "branch", "remote", "rebase"],
+  "engines": {
+    "node": ">= 4.0"
+  },
+  "files": []
+}
